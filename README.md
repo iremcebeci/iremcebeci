@@ -15,6 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iremcebeci&show_icons=true&locale=en&layout=compact" alt="iremcebeci" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iremcebeci&show_icons=true&locale=en" alt="iremcebeci" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iremcebeci&label=Profile%20views&color=0e75b6&style=flat" alt="iremcebeci" /> </p>
