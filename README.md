@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Smart Experiment Simulation with Unity**
 
-- 🌱 I’m currently learning **image processing, Python, Arduino, Unity, and artificial intelligence at university.**
+- 🌱 I’m currently learning **image processing, Unity and Blender.**
 
 - 📫 How to reach me **ireemcebeci@gmail.com**
 
