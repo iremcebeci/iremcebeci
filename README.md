@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İrem Cebeci</h1>
-<h3 align="center">A passionate frontend developer from Türkiye.</h3>
+<h3 align="center">Computer Programming student from Türkiye.</h3>
 
 - 🔭 I’m currently working on **an experiment simulation project in Unity.**
 
