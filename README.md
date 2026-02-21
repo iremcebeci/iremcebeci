@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an experiment simulation project in Unity.**
 
-- 🌱 I’m currently learning **ASP.NET Core, Entity Framework Core, Unity, and React.**
+- 🌱 I’m currently learning **ASP.NET Core, Entity Framework Core, Unity and React.**
 
 - 📫 How to reach me **: iremmccebeci@gmail.com**
 
